@@ -1,0 +1,4 @@
+.hover .pink.lighten-4 {
+    transition: background .3s cubic-bezier(.25,.8,.5,1);
+    background-color: #F48FB1!important;
+}
